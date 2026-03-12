@@ -11,7 +11,7 @@
 
 
 
-Телеграм: https://t.me/Vera_Mr \
+Телеграм: https://t.me/Vera_Mr 
 
 
 ---
