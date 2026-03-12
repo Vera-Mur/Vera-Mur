@@ -12,7 +12,7 @@
 
 
 Телеграм: https://t.me/Vera_Mr \
-EMail: AVeraMakuhina@yandex.ru
+
 
 ---
 
