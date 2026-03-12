@@ -1,4 +1,36 @@
-## Hi there 👋
+# Привет :heart_hands:
+## Меня зовут Вера 
+
+### Я начинающий продуктовый аналитик
+
+До этого 7+ лет работала в геймдеве, а теперь применяю этот опыт в работе с продуктами. 
+
+На GitHub собраны мои учебные и личные проекты: эксперименты с продуктом, анализ продаж и маркетинговых метрик. Этот GitHub показывает, как я структурирую данные и делаю выводы, которые будут полезны продукту.
+
+Сейчас ищу возможности применить эти навыки в реальных продуктовых проектах.
+
+
+
+Телеграм: https://t.me/Vera_Mr \
+EMail: AVeraMakuhina@yandex.ru
+
+---
+
+<details close> 
+  <summary><h2>Мои учебные проекты</h2></summary>
+
+  <!-- коммент -->
+
+  <p align="left">
+    <a href="https://github.com/Vera-Mur/Test_rep"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=Test_rep&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Test_rep"></a>
+   
+  </p>
+</details>
+
+--- 
+
+Вне работы люблю гулять и проводить время с собакой, иногда именно во время прогулки приходят новые идеи для проектов. \
+
 
 <!--
 **Vera-Mur/Vera-Mur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
