@@ -21,7 +21,7 @@
 
   <p align="left">
     <a href="https://github.com/Vera-Mur/ab-test-fintech-onboarding">
-      <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=ab-test-fintech-onboarding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=ab-test-fintech-onboarding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
     </a>
 
     <a href="https://github.com/Vera-Mur/marketplace-product-analysis">
@@ -32,7 +32,7 @@
 
 --- 
 
-Вне работы люблю гулять и проводить время с собакой, иногда именно во время прогулки приходят новые идеи для проектов. \
+Вне работы люблю гулять и проводить время с собакой, иногда именно во время прогулки приходят новые идеи для проектов. 
 
 
 <!--
