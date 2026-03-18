@@ -17,7 +17,7 @@
 ---
 
 <details> 
-  <summary><b>Мои учебные проекты</b></summary>
+  <summary><b>Мои проекты</b></summary>
 
   <p align="left">
     <a href="https://github.com/Vera-Mur/ab-test-fintech-onboarding">
