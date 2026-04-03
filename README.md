@@ -13,26 +13,26 @@
 
 Телеграм: https://t.me/Vera_Mr 
 
+Notion: https://www.notion.so/Product-Analyst-33329d81b27f80358b17cfc229b73d6c 
 
----
+----
 
-<details> 
+<details>
   <summary><b>Мои проекты</b></summary>
 
-  <p align="left">
-    <a href="https://github.com/Vera-Mur/ab-test-fintech-onboarding">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=ab-test-fintech-onboarding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
-    </a>
+  <a href="https://github.com/Vera-Mur/ab-test-fintech-onboarding">
+    <img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=ab-test-fintech-onboarding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
 
-    <a href="https://github.com/Vera-Mur/marketplace-product-analysis">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=marketplace-product-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
-    </a>
-  </p>
+  <a href="https://github.com/Vera-Mur/marketplace-product-analysis">
+    <img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=marketplace-product-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
 </details>
 
 --- 
 
-Вне работы люблю гулять и проводить время с собакой, иногда именно во время прогулки приходят новые идеи для проектов. 
+Вне работы люблю гулять и проводить время со своей собакой, иногда именно во время прогулки приходят новые идеи для проектов. 
 
 
 <!--
