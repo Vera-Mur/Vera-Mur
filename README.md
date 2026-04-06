@@ -13,7 +13,7 @@
 
 Телеграм: https://t.me/Vera_Mr 
 
-Notion: https://www.notion.so/Product-Analyst-33329d81b27f80358b17cfc229b73d6c 
+Notion: [notion.so/VeraM](https://www.notion.so/Product-Analyst-33329d81b27f80358b17cfc229b73d6c)
 
 ----
 
