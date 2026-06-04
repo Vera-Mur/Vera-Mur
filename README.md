@@ -19,17 +19,19 @@ Notion: [notion.so/VeraM](https://www.notion.so/Product-Analyst-33329d81b27f8035
 
 <details>
   <summary><b>Мои проекты</b></summary>
-
   <a href="https://github.com/Vera-Mur/ab-test-fintech-onboarding">
     <img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=ab-test-fintech-onboarding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
   </a>
-
   <a href="https://github.com/Vera-Mur/marketplace-product-analysis">
     <img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=marketplace-product-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
   </a>
-
+  <a href="https://github.com/Vera-Mur/zoo-moscow-data-analysis">
+    <img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=zoo-moscow-data-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+  <a href="https://github.com/Vera-Mur/dashboard-business-metrics-cafe-service">
+    <img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vera-Mur&repo=dashboard-business-metrics-cafe-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
 </details>
-
 --- 
 
 Вне работы люблю гулять и проводить время со своей собакой, иногда именно во время прогулки приходят новые идеи для проектов. 
